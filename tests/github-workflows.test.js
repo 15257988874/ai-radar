@@ -30,5 +30,6 @@ test('Pages workflow builds on main and uses the required deployment permissions
   assert.match(workflow, /pages: write/);
   assert.match(workflow, /id-token: write/);
   assert.match(workflow, /actions\/deploy-pages/);
+  assert.match(workflow, /cp dist\/index\.html dist\/404\.html/);
   assert.match(viteConfig, /GITHUB_REPOSITORY/);
 });
