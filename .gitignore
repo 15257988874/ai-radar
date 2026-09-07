@@ -1,0 +1,12 @@
+# Local dependency installs and production artifacts are recreated by CI.
+node_modules/
+dist/
+
+# Local editor, OS, and runtime configuration must not be published.
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Agent visual-companion state is local process output, not application source.
+.superpowers/

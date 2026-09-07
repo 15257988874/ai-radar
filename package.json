@@ -1,0 +1,22 @@
+{
+  "name": "ai-radar",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite --host 0.0.0.0",
+    "data:refresh": "node scripts/refresh-data.mjs",
+    "test": "node --test tests/*.test.js"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "unocss": "^66.3.3",
+    "vite": "^7.1.7",
+    "vue": "^3.5.18"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.2.5",
+    "vue-router": "^4.6.4"
+  }
+}

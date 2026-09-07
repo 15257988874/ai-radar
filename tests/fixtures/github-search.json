@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "full_name": "example/agent-kit",
+      "description": "A public toolkit for building reliable AI agents.",
+      "html_url": "https://github.com/example/agent-kit",
+      "stargazers_count": 4200,
+      "language": "TypeScript",
+      "updated_at": "2026-09-05T00:00:00Z"
+    },
+    {
+      "full_name": "example/vision-flow",
+      "description": "Composable image and video generation workflows.",
+      "html_url": "https://github.com/example/vision-flow",
+      "stargazers_count": 2800,
+      "language": "Python",
+      "updated_at": "2026-09-04T22:00:00Z"
+    }
+  ]
+}

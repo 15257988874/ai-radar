@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>OpenAI News</title>
+    <item>
+      <title>Introducing a practical agent guide</title>
+      <link>https://openai.com/index/practical-agent-guide/</link>
+      <description>A detailed guide for building reliable AI agents.</description>
+      <pubDate>Fri, 05 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duplicate practical agent guide</title>
+      <link>https://openai.com/index/practical-agent-guide</link>
+      <description>This duplicate must not produce another story.</description>
+      <pubDate>Fri, 05 Sep 2026 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Entry without a usable link</title>
+      <description>This item must be ignored.</description>
+      <pubDate>Fri, 05 Sep 2026 02:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
