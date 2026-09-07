@@ -18,11 +18,12 @@ const routes = [
 
 /**
  * Client-side router for independent discovery pages and home-section navigation.
+ * The Vite base URL keeps project-site navigation below the GitHub Pages repository prefix.
  * Hash destinations keep the original landing-page sections reachable from the global navigation.
  * @type {import('vue-router').Router}
  */
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory(import.meta.env.BASE_URL),
   routes,
   scrollBehavior(to) {
     if (to.hash) return { el: to.hash, top: 84, behavior: 'smooth' };

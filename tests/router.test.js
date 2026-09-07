@@ -8,3 +8,9 @@ test('the application exposes a dedicated complete-news route', async () => {
   assert.match(router, /path: '\/news'/)
   assert.match(router, /NewsView/)
 })
+
+test('the router uses Vite base URL so GitHub Pages project routes retain the repository prefix', async () => {
+  const router = await readFile(new URL('../src/router.js', import.meta.url), 'utf8')
+
+  assert.match(router, /createWebHistory\(import\.meta\.env\.BASE_URL\)/)
+})
