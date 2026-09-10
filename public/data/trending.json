@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T00:15:09.813Z",
+  "generatedAt": "2026-09-10T00:14:58.872Z",
   "sourceLabel": "GitHub API 公开仓库搜索",
   "boards": {
     "GitHub": {
@@ -16,7 +16,7 @@
           "name": "f/prompts.chat",
           "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
           "language": "HTML",
-          "stars": "169.7k",
+          "stars": "169.8k",
           "change": "今日入榜",
           "url": "https://github.com/f/prompts.chat"
         },
@@ -32,7 +32,7 @@
           "name": "thedotmack/claude-mem",
           "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
           "language": "JavaScript",
-          "stars": "93.5k",
+          "stars": "93.6k",
           "change": "今日入榜",
           "url": "https://github.com/thedotmack/claude-mem"
         },
@@ -40,7 +40,7 @@
           "name": "OpenHands/OpenHands",
           "description": "🙌 OpenHands: AI-Driven Development",
           "language": "TypeScript",
-          "stars": "86.9k",
+          "stars": "87.1k",
           "change": "今日入榜",
           "url": "https://github.com/OpenHands/OpenHands"
         },
@@ -56,7 +56,7 @@
           "name": "usestrix/strix",
           "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
           "language": "Python",
-          "stars": "61.3k",
+          "stars": "61.5k",
           "change": "今日入榜",
           "url": "https://github.com/usestrix/strix"
         },
@@ -64,7 +64,7 @@
           "name": "jingyaogong/minimind",
           "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
           "language": "Python",
-          "stars": "59.9k",
+          "stars": "60.3k",
           "change": "今日入榜",
           "url": "https://github.com/jingyaogong/minimind"
         },
@@ -91,31 +91,31 @@
           "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
           "language": "Python",
           "stars": "187.2k",
-          "change": "近7日入榜 4 天",
+          "change": "近7日入榜 5 天",
           "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
           "name": "f/prompts.chat",
           "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
           "language": "HTML",
-          "stars": "169.7k",
-          "change": "近7日入榜 4 天",
+          "stars": "169.8k",
+          "change": "近7日入榜 5 天",
           "url": "https://github.com/f/prompts.chat"
         },
         {
           "name": "thedotmack/claude-mem",
           "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
           "language": "JavaScript",
-          "stars": "93.5k",
-          "change": "近7日入榜 4 天",
+          "stars": "93.6k",
+          "change": "近7日入榜 5 天",
           "url": "https://github.com/thedotmack/claude-mem"
         },
         {
           "name": "OpenHands/OpenHands",
           "description": "🙌 OpenHands: AI-Driven Development",
           "language": "TypeScript",
-          "stars": "86.9k",
-          "change": "近7日入榜 4 天",
+          "stars": "87.1k",
+          "change": "近7日入榜 5 天",
           "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -123,23 +123,23 @@
           "description": "12 Weeks, 24 Lessons, AI for All!",
           "language": "Jupyter Notebook",
           "stars": "68.3k",
-          "change": "近7日入榜 4 天",
+          "change": "近7日入榜 5 天",
           "url": "https://github.com/microsoft/AI-For-Beginners"
         },
         {
           "name": "usestrix/strix",
           "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
           "language": "Python",
-          "stars": "61.3k",
-          "change": "近7日入榜 4 天",
+          "stars": "61.5k",
+          "change": "近7日入榜 5 天",
           "url": "https://github.com/usestrix/strix"
         },
         {
           "name": "jingyaogong/minimind",
           "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
           "language": "Python",
-          "stars": "59.9k",
-          "change": "近7日入榜 4 天",
+          "stars": "60.3k",
+          "change": "近7日入榜 5 天",
           "url": "https://github.com/jingyaogong/minimind"
         },
         {
@@ -147,8 +147,16 @@
           "description": "🦍 The API and AI Gateway",
           "language": "Lua",
           "stars": "44.1k",
-          "change": "近7日入榜 4 天",
+          "change": "近7日入榜 5 天",
           "url": "https://github.com/Kong/kong"
+        },
+        {
+          "name": "hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": "96.6k",
+          "change": "近7日入榜 4 天",
+          "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
           "name": "rasbt/LLMs-from-scratch",
@@ -157,14 +165,6 @@
           "stars": "104.5k",
           "change": "近7日入榜 3 天",
           "url": "https://github.com/rasbt/LLMs-from-scratch"
-        },
-        {
-          "name": "hacksider/Deep-Live-Cam",
-          "description": "real time face swap and one-click video deepfake with only a single image",
-          "language": "Python",
-          "stars": "96.6k",
-          "change": "近7日入榜 3 天",
-          "url": "https://github.com/hacksider/Deep-Live-Cam"
         }
       ],
       "monthly": [
@@ -173,31 +173,31 @@
           "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
           "language": "Python",
           "stars": "187.2k",
-          "change": "近30日入榜 4 天",
+          "change": "近30日入榜 5 天",
           "url": "https://github.com/Significant-Gravitas/AutoGPT"
         },
         {
           "name": "f/prompts.chat",
           "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
           "language": "HTML",
-          "stars": "169.7k",
-          "change": "近30日入榜 4 天",
+          "stars": "169.8k",
+          "change": "近30日入榜 5 天",
           "url": "https://github.com/f/prompts.chat"
         },
         {
           "name": "thedotmack/claude-mem",
           "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
           "language": "JavaScript",
-          "stars": "93.5k",
-          "change": "近30日入榜 4 天",
+          "stars": "93.6k",
+          "change": "近30日入榜 5 天",
           "url": "https://github.com/thedotmack/claude-mem"
         },
         {
           "name": "OpenHands/OpenHands",
           "description": "🙌 OpenHands: AI-Driven Development",
           "language": "TypeScript",
-          "stars": "86.9k",
-          "change": "近30日入榜 4 天",
+          "stars": "87.1k",
+          "change": "近30日入榜 5 天",
           "url": "https://github.com/OpenHands/OpenHands"
         },
         {
@@ -205,23 +205,23 @@
           "description": "12 Weeks, 24 Lessons, AI for All!",
           "language": "Jupyter Notebook",
           "stars": "68.3k",
-          "change": "近30日入榜 4 天",
+          "change": "近30日入榜 5 天",
           "url": "https://github.com/microsoft/AI-For-Beginners"
         },
         {
           "name": "usestrix/strix",
           "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
           "language": "Python",
-          "stars": "61.3k",
-          "change": "近30日入榜 4 天",
+          "stars": "61.5k",
+          "change": "近30日入榜 5 天",
           "url": "https://github.com/usestrix/strix"
         },
         {
           "name": "jingyaogong/minimind",
           "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
           "language": "Python",
-          "stars": "59.9k",
-          "change": "近30日入榜 4 天",
+          "stars": "60.3k",
+          "change": "近30日入榜 5 天",
           "url": "https://github.com/jingyaogong/minimind"
         },
         {
@@ -229,8 +229,16 @@
           "description": "🦍 The API and AI Gateway",
           "language": "Lua",
           "stars": "44.1k",
-          "change": "近30日入榜 4 天",
+          "change": "近30日入榜 5 天",
           "url": "https://github.com/Kong/kong"
+        },
+        {
+          "name": "hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": "96.6k",
+          "change": "近30日入榜 4 天",
+          "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
           "name": "rasbt/LLMs-from-scratch",
@@ -239,14 +247,6 @@
           "stars": "104.5k",
           "change": "近30日入榜 3 天",
           "url": "https://github.com/rasbt/LLMs-from-scratch"
-        },
-        {
-          "name": "hacksider/Deep-Live-Cam",
-          "description": "real time face swap and one-click video deepfake with only a single image",
-          "language": "Python",
-          "stars": "96.6k",
-          "change": "近30日入榜 3 天",
-          "url": "https://github.com/hacksider/Deep-Live-Cam"
         }
       ]
     }
