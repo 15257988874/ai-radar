@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T22:09:24.921Z",
+  "generatedAt": "2026-09-23T00:33:28.319Z",
   "sourceLabel": "官方公开 RSS / Atom",
   "items": [
     {
@@ -13,7 +13,7 @@
       "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
       "publishedAt": "2026-09-22T21:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-h91za6",
@@ -26,7 +26,20 @@
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
       "publishedAt": "2026-09-22T18:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
+    },
+    {
+      "id": "live-7f0zvj",
+      "type": "官方更新",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "source": "OpenAI",
+      "time": "最新收录",
+      "theme": "official",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-5ftx1q",
@@ -39,20 +52,7 @@
       "url": "https://openai.com/index/priorities-principles-third-party-assessments",
       "publishedAt": "2026-09-22T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
-    },
-    {
-      "id": "live-10ek50u",
-      "type": "官方更新",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "source": "OpenAI",
-      "time": "最新收录",
-      "theme": "official",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "publishedAt": "2026-09-21T12:00:00.000Z",
-      "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-159ib7w",
@@ -65,7 +65,20 @@
       "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
       "publishedAt": "2026-09-21T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
+    },
+    {
+      "id": "live-10ek50u",
+      "type": "官方更新",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "source": "OpenAI",
+      "time": "最新收录",
+      "theme": "official",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-1u0ewsz",
@@ -78,7 +91,7 @@
       "url": "https://openai.com/index/building-standards-next-phase-ai",
       "publishedAt": "2026-09-21T10:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-4wlgdn",
@@ -91,7 +104,7 @@
       "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
       "publishedAt": "2026-09-21T07:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-1qw5ina",
@@ -104,7 +117,7 @@
       "url": "https://openai.com/index/v7",
       "publishedAt": "2026-09-21T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-1dsx88z",
@@ -117,7 +130,7 @@
       "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
       "publishedAt": "2026-09-18T15:00:00.000Z",
       "sourceUrl": "https://github.blog/tag/ai/feed/",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-1g31aoy",
@@ -130,7 +143,7 @@
       "url": "https://openai.com/index/australian-youth-safety-blueprint",
       "publishedAt": "2026-09-18T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-c9xyz2",
@@ -143,7 +156,7 @@
       "url": "https://openai.com/index/cooley-gopublic",
       "publishedAt": "2026-09-17T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-sit0th",
@@ -156,7 +169,7 @@
       "url": "https://openai.com/index/astra-for-law",
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-i5vctn",
@@ -169,7 +182,7 @@
       "url": "https://openai.com/index/model-misalignment-reporting-framework",
       "publishedAt": "2026-09-16T17:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-ddv8wh",
@@ -182,7 +195,7 @@
       "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "publishedAt": "2026-09-16T16:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-swaues",
@@ -195,7 +208,7 @@
       "url": "https://openai.com/index/reimagining-advertising-with-ai",
       "publishedAt": "2026-09-16T13:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-cc39pl",
@@ -208,7 +221,7 @@
       "url": "https://openai.com/index/hex-gpt-6-astra",
       "publishedAt": "2026-09-16T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-1tgq152",
@@ -221,7 +234,7 @@
       "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
       "publishedAt": "2026-09-16T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-1492u19",
@@ -234,7 +247,7 @@
       "url": "https://openai.com/index/unlocking-new-ways-of-working",
       "publishedAt": "2026-09-16T09:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-8qmub7",
@@ -247,7 +260,7 @@
       "url": "https://openai.com/index/fyxer",
       "publishedAt": "2026-09-14T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-1mdqn4g",
@@ -260,7 +273,7 @@
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "publishedAt": "2026-09-14T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-1jfbad2",
@@ -273,7 +286,7 @@
       "url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "publishedAt": "2026-09-11T16:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-1k0fgbt",
@@ -286,7 +299,7 @@
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
       "publishedAt": "2026-09-11T10:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-po879v",
@@ -299,7 +312,7 @@
       "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
       "publishedAt": "2026-09-10T16:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-mjnvex",
@@ -312,7 +325,7 @@
       "url": "https://openai.com/index/put-data-to-work",
       "publishedAt": "2026-09-10T15:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-7dprvo",
@@ -325,7 +338,7 @@
       "url": "https://openai.com/index/introducing-chatgpt-financial-services",
       "publishedAt": "2026-09-10T07:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-1vjm9hw",
@@ -338,7 +351,7 @@
       "url": "https://openai.com/index/expanding-ai-access-us-government",
       "publishedAt": "2026-09-10T07:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-13b77cz",
@@ -351,7 +364,7 @@
       "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "publishedAt": "2026-09-10T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-550svl",
@@ -364,7 +377,7 @@
       "url": "https://openai.com/index/introducing-the-agents-api",
       "publishedAt": "2026-09-10T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-rqgknm",
@@ -377,7 +390,7 @@
       "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
       "publishedAt": "2026-09-09T17:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-kmtzvn",
@@ -390,7 +403,7 @@
       "url": "https://openai.com/index/ai-policy-window",
       "publishedAt": "2026-09-09T13:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-1bqvv0k",
@@ -403,7 +416,7 @@
       "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
       "publishedAt": "2026-09-09T11:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-11sd2tq",
@@ -416,7 +429,7 @@
       "url": "https://openai.com/index/codex-quantum-computing-experiments",
       "publishedAt": "2026-09-08T17:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-pxuniz",
@@ -429,7 +442,7 @@
       "url": "https://openai.com/index/the-work-now-within-reach",
       "publishedAt": "2026-09-08T13:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-dp8kll",
@@ -442,7 +455,7 @@
       "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
       "publishedAt": "2026-09-08T11:30:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-b8ddpo",
@@ -455,7 +468,7 @@
       "url": "https://openai.com/index/navier-stokes-solution",
       "publishedAt": "2026-09-08T10:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-dt1aj7",
@@ -468,7 +481,7 @@
       "url": "https://openai.com/index/teen-development-research-grants",
       "publishedAt": "2026-09-08T09:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-12f0b67",
@@ -481,7 +494,7 @@
       "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
       "publishedAt": "2026-09-08T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-1r2ov95",
@@ -494,7 +507,7 @@
       "url": "https://openai.com/index/1password",
       "publishedAt": "2026-09-08T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-8ikzes",
@@ -507,7 +520,7 @@
       "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
       "publishedAt": "2026-09-07T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-7amf1v",
@@ -520,7 +533,7 @@
       "url": "https://openai.com/index/an-alien-mind",
       "publishedAt": "2026-09-06T09:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-1j3horr",
@@ -533,7 +546,7 @@
       "url": "https://openai.com/index/research-acceleration-view-inside-openai",
       "publishedAt": "2026-09-06T08:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-vwzen3",
@@ -546,20 +559,7 @@
       "url": "https://openai.com/index/daybreak-for-frontline-defenders",
       "publishedAt": "2026-09-03T13:15:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
-    },
-    {
-      "id": "live-1obvpzl",
-      "type": "官方更新",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "source": "OpenAI",
-      "time": "最新收录",
-      "theme": "official",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "publishedAt": "2026-09-03T12:00:00.000Z",
-      "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-1muuhfh",
@@ -572,7 +572,20 @@
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "publishedAt": "2026-09-03T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
+    },
+    {
+      "id": "live-1obvpzl",
+      "type": "官方更新",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "source": "OpenAI",
+      "time": "最新收录",
+      "theme": "official",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "publishedAt": "2026-09-03T12:00:00.000Z",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-1kko2tl",
@@ -585,7 +598,7 @@
       "url": "https://openai.com/index/gpt-6-astra",
       "publishedAt": "2026-09-03T11:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-o1a7g6",
@@ -598,7 +611,7 @@
       "url": "https://openai.com/index/safety-overview-gpt-6-astra",
       "publishedAt": "2026-09-03T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     },
     {
       "id": "live-bpfsls",
@@ -611,20 +624,7 @@
       "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
       "publishedAt": "2026-09-02T21:00:00.000Z",
       "sourceUrl": "https://github.blog/tag/ai/feed/",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
-    },
-    {
-      "id": "live-pb0htt",
-      "type": "官方更新",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-      "source": "OpenAI",
-      "time": "最新收录",
-      "theme": "official",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "publishedAt": "2026-09-02T12:00:00.000Z",
-      "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-09-22T22:09:24.921Z"
+      "generatedAt": "2026-09-23T00:33:28.319Z"
     }
   ]
 }
