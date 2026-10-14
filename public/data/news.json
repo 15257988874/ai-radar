@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-10-14T07:38:27.816Z",
+  "generatedAt": "2026-10-14T13:43:40.418Z",
   "sourceLabel": "官方公开 RSS / Atom",
   "items": [
+    {
+      "id": "live-bg59bc",
+      "type": "官方更新",
+      "title": "The EU’s next chapter in AI is agentic",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "source": "OpenAI",
+      "time": "最新收录",
+      "theme": "official",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "publishedAt": "2026-10-14T00:00:00.000Z",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "generatedAt": "2026-10-14T13:43:40.418Z"
+    },
     {
       "id": "live-1fisb2y",
       "type": "官方更新",
@@ -13,7 +26,7 @@
       "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
       "publishedAt": "2026-10-13T17:56:33.000Z",
       "sourceUrl": "https://github.blog/tag/ai/feed/",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-j2goop",
@@ -26,7 +39,7 @@
       "url": "https://openai.com/index/higgsfield-longer-videos-voice",
       "publishedAt": "2026-10-13T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-bb5w2l",
@@ -39,7 +52,7 @@
       "url": "https://openai.com/index/sophos",
       "publishedAt": "2026-10-09T07:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-nqk6go",
@@ -52,7 +65,7 @@
       "url": "https://openai.com/index/asana-browser-agent",
       "publishedAt": "2026-10-09T07:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-18ffsqj",
@@ -65,7 +78,7 @@
       "url": "https://openai.com/index/oracle",
       "publishedAt": "2026-10-08T16:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-srbye2",
@@ -78,7 +91,7 @@
       "url": "https://openai.com/index/pollo-ai",
       "publishedAt": "2026-10-08T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-k5bou2",
@@ -91,7 +104,7 @@
       "url": "https://openai.com/index/legalon-halves-codex-costs",
       "publishedAt": "2026-10-08T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-llcw6s",
@@ -104,7 +117,7 @@
       "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
       "publishedAt": "2026-10-08T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-33xnl4",
@@ -117,7 +130,7 @@
       "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
       "publishedAt": "2026-10-07T17:45:34.000Z",
       "sourceUrl": "https://github.blog/tag/ai/feed/",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-1dykbvb",
@@ -130,7 +143,7 @@
       "url": "https://openai.com/index/teens-learn-and-plan",
       "publishedAt": "2026-10-07T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-1gce18o",
@@ -143,7 +156,7 @@
       "url": "https://openai.com/index/radisson",
       "publishedAt": "2026-10-07T07:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-anf7hz",
@@ -156,7 +169,7 @@
       "url": "https://openai.com/index/gpt-6-for-everyone",
       "publishedAt": "2026-10-07T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-12mxdqa",
@@ -169,7 +182,7 @@
       "url": "https://openai.com/index/atlassian-partnership",
       "publishedAt": "2026-10-06T16:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-1ui06fh",
@@ -182,7 +195,7 @@
       "url": "https://openai.com/index/jump-trading",
       "publishedAt": "2026-10-06T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-48301v",
@@ -195,7 +208,7 @@
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "publishedAt": "2026-10-06T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-14d5qb8",
@@ -208,7 +221,7 @@
       "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
       "publishedAt": "2026-10-06T10:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-am017d",
@@ -221,7 +234,7 @@
       "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
       "publishedAt": "2026-10-05T15:59:40.000Z",
       "sourceUrl": "https://github.blog/tag/ai/feed/",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-u3byi7",
@@ -234,7 +247,7 @@
       "url": "https://openai.com/index/eu-text-provenance",
       "publishedAt": "2026-10-05T15:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-162qkqd",
@@ -247,7 +260,7 @@
       "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
       "publishedAt": "2026-10-05T10:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-1fkmtaz",
@@ -260,7 +273,7 @@
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
       "publishedAt": "2026-10-02T16:15:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-xoala0",
@@ -273,7 +286,7 @@
       "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
       "publishedAt": "2026-10-02T15:00:00.000Z",
       "sourceUrl": "https://github.blog/tag/ai/feed/",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-1kl58kd",
@@ -286,7 +299,7 @@
       "url": "https://openai.com/index/chatham-financial",
       "publishedAt": "2026-10-02T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-1nrywdf",
@@ -299,7 +312,7 @@
       "url": "https://openai.com/index/the-eternal-complement",
       "publishedAt": "2026-10-01T17:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-frqlpl",
@@ -312,7 +325,7 @@
       "url": "https://openai.com/index/albertsons-reimagining-retail",
       "publishedAt": "2026-10-01T16:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-cowdu3",
@@ -325,7 +338,7 @@
       "url": "https://openai.com/index/the-den-family-social",
       "publishedAt": "2026-10-01T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-2ygqw3",
@@ -338,7 +351,7 @@
       "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
       "publishedAt": "2026-09-30T10:30:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-14oxof6",
@@ -351,7 +364,7 @@
       "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
       "publishedAt": "2026-09-30T10:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-6ikbf3",
@@ -377,7 +390,7 @@
       "url": "https://openai.com/index/devday-2026-recap",
       "publishedAt": "2026-09-29T10:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-q47ed1",
@@ -403,7 +416,7 @@
       "url": "https://openai.com/index/introducing-dots",
       "publishedAt": "2026-09-29T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-462i56",
@@ -416,7 +429,7 @@
       "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "publishedAt": "2026-09-28T19:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-p21kob",
@@ -429,20 +442,7 @@
       "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
       "publishedAt": "2026-09-28T07:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
-    },
-    {
-      "id": "live-1ah6jzr",
-      "type": "官方更新",
-      "title": "Are you a Codex Original?",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-      "source": "OpenAI",
-      "time": "最新收录",
-      "theme": "official",
-      "url": "https://openai.com/form/codex-originals",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-1n1a23b",
@@ -455,7 +455,20 @@
       "url": "https://openai.com/index/basis-tax-workbook-with-astra",
       "publishedAt": "2026-09-28T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
+    },
+    {
+      "id": "live-1ah6jzr",
+      "type": "官方更新",
+      "title": "Are you a Codex Original?",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "source": "OpenAI",
+      "time": "最新收录",
+      "theme": "official",
+      "url": "https://openai.com/form/codex-originals",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-478aau",
@@ -468,7 +481,7 @@
       "url": "https://openai.com/index/proaction",
       "publishedAt": "2026-09-25T19:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-qjnyk1",
@@ -481,7 +494,7 @@
       "url": "https://openai.com/index/lowes",
       "publishedAt": "2026-09-25T07:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-1eoddhy",
@@ -494,7 +507,7 @@
       "url": "https://openai.com/index/wayfair",
       "publishedAt": "2026-09-25T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-16i4kj4",
@@ -520,7 +533,7 @@
       "url": "https://openai.com/index/two-years-of-openai-academy",
       "publishedAt": "2026-09-23T16:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-1q6usxr",
@@ -533,20 +546,7 @@
       "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "publishedAt": "2026-09-23T13:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
-    },
-    {
-      "id": "live-3q8kn3",
-      "type": "官方更新",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "source": "OpenAI",
-      "time": "最新收录",
-      "theme": "official",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "publishedAt": "2026-09-23T12:00:00.000Z",
-      "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-ha3r57",
@@ -559,7 +559,7 @@
       "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "publishedAt": "2026-09-23T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-1ke56x9",
@@ -572,7 +572,20 @@
       "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "publishedAt": "2026-09-23T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
+    },
+    {
+      "id": "live-3q8kn3",
+      "type": "官方更新",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "source": "OpenAI",
+      "time": "最新收录",
+      "theme": "official",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "publishedAt": "2026-09-23T12:00:00.000Z",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-10kzaj3",
@@ -585,7 +598,7 @@
       "url": "https://openai.com/index/introducing-mentalhealthbench",
       "publishedAt": "2026-09-23T10:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-1w651xe",
@@ -598,7 +611,7 @@
       "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
       "publishedAt": "2026-09-23T02:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     },
     {
       "id": "live-1t3jth8",
@@ -611,20 +624,7 @@
       "url": "https://openai.com/index/airbnb-gpt-6-astra",
       "publishedAt": "2026-09-23T01:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
-    },
-    {
-      "id": "live-13bfju0",
-      "type": "官方更新",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-      "source": "OpenAI",
-      "time": "最新收录",
-      "theme": "official",
-      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "publishedAt": "2026-09-23T00:00:00.000Z",
-      "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-10-14T07:38:27.816Z"
+      "generatedAt": "2026-10-14T13:43:40.418Z"
     }
   ]
 }
