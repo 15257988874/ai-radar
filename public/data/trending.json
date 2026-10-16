@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T00:33:34.625Z",
+  "generatedAt": "2026-10-16T04:31:58.990Z",
   "sourceLabel": "GitHub API 公开仓库搜索",
   "boards": {
     "GitHub": {
@@ -16,7 +16,7 @@
           "name": "f/prompts.chat",
           "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
           "language": "HTML",
-          "stars": "173k",
+          "stars": "173.1k",
           "change": "今日入榜",
           "url": "https://github.com/f/prompts.chat"
         },
@@ -24,7 +24,7 @@
           "name": "thedotmack/claude-mem",
           "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
           "language": "TypeScript",
-          "stars": "100.8k",
+          "stars": "101.1k",
           "change": "今日入榜",
           "url": "https://github.com/thedotmack/claude-mem"
         },
@@ -40,7 +40,7 @@
           "name": "OpenHands/OpenHands",
           "description": "🙌 OpenHands: AI-Driven Development",
           "language": "TypeScript",
-          "stars": "90.9k",
+          "stars": "91k",
           "change": "今日入榜",
           "url": "https://github.com/OpenHands/OpenHands"
         },
@@ -48,7 +48,7 @@
           "name": "usestrix/strix",
           "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
           "language": "Python",
-          "stars": "68.6k",
+          "stars": "68.9k",
           "change": "今日入榜",
           "url": "https://github.com/usestrix/strix"
         },
@@ -80,7 +80,7 @@
           "name": "nautechsystems/nautilus_trader",
           "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
           "language": "Rust",
-          "stars": "30k",
+          "stars": "30.1k",
           "change": "今日入榜",
           "url": "https://github.com/nautechsystems/nautilus_trader"
         }
@@ -98,7 +98,7 @@
           "name": "f/prompts.chat",
           "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
           "language": "HTML",
-          "stars": "173k",
+          "stars": "173.1k",
           "change": "近7日入榜 7 天",
           "url": "https://github.com/f/prompts.chat"
         },
@@ -106,7 +106,7 @@
           "name": "thedotmack/claude-mem",
           "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
           "language": "TypeScript",
-          "stars": "100.8k",
+          "stars": "101.1k",
           "change": "近7日入榜 7 天",
           "url": "https://github.com/thedotmack/claude-mem"
         },
@@ -122,7 +122,7 @@
           "name": "OpenHands/OpenHands",
           "description": "🙌 OpenHands: AI-Driven Development",
           "language": "TypeScript",
-          "stars": "90.9k",
+          "stars": "91k",
           "change": "近7日入榜 7 天",
           "url": "https://github.com/OpenHands/OpenHands"
         },
@@ -130,7 +130,7 @@
           "name": "usestrix/strix",
           "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
           "language": "Python",
-          "stars": "68.6k",
+          "stars": "68.9k",
           "change": "近7日入榜 7 天",
           "url": "https://github.com/usestrix/strix"
         },
@@ -154,17 +154,17 @@
           "name": "nautechsystems/nautilus_trader",
           "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
           "language": "Rust",
-          "stars": "30k",
-          "change": "近7日入榜 6 天",
+          "stars": "30.1k",
+          "change": "近7日入榜 7 天",
           "url": "https://github.com/nautechsystems/nautilus_trader"
         },
         {
-          "name": "simstudioai/sim",
-          "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-          "language": "TypeScript",
-          "stars": "29.8k",
+          "name": "explosion/spaCy",
+          "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+          "language": "Python",
+          "stars": "34k",
           "change": "近7日入榜 4 天",
-          "url": "https://github.com/simstudioai/sim"
+          "url": "https://github.com/explosion/spaCy"
         }
       ],
       "monthly": [
@@ -180,7 +180,7 @@
           "name": "thedotmack/claude-mem",
           "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
           "language": "TypeScript",
-          "stars": "100.8k",
+          "stars": "101.1k",
           "change": "近30日入榜 30 天",
           "url": "https://github.com/thedotmack/claude-mem"
         },
@@ -188,7 +188,7 @@
           "name": "OpenHands/OpenHands",
           "description": "🙌 OpenHands: AI-Driven Development",
           "language": "TypeScript",
-          "stars": "90.9k",
+          "stars": "91k",
           "change": "近30日入榜 30 天",
           "url": "https://github.com/OpenHands/OpenHands"
         },
@@ -196,7 +196,7 @@
           "name": "usestrix/strix",
           "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
           "language": "Python",
-          "stars": "68.6k",
+          "stars": "68.9k",
           "change": "近30日入榜 30 天",
           "url": "https://github.com/usestrix/strix"
         },
@@ -209,20 +209,20 @@
           "url": "https://github.com/hacksider/Deep-Live-Cam"
         },
         {
-          "name": "rasbt/LLMs-from-scratch",
-          "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-          "language": "Jupyter Notebook",
-          "stars": "106.2k",
-          "change": "近30日入榜 23 天",
-          "url": "https://github.com/rasbt/LLMs-from-scratch"
-        },
-        {
           "name": "Kong/kong",
           "description": "🦍 The API and AI Gateway",
           "language": "Lua",
           "stars": "44.3k",
-          "change": "近30日入榜 23 天",
+          "change": "近30日入榜 24 天",
           "url": "https://github.com/Kong/kong"
+        },
+        {
+          "name": "rasbt/LLMs-from-scratch",
+          "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+          "language": "Jupyter Notebook",
+          "stars": "106.2k",
+          "change": "近30日入榜 22 天",
+          "url": "https://github.com/rasbt/LLMs-from-scratch"
         },
         {
           "name": "Lightning-AI/pytorch-lightning",
@@ -237,14 +237,14 @@
           "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
           "language": "TypeScript",
           "stars": "29.8k",
-          "change": "近30日入榜 22 天",
+          "change": "近30日入榜 21 天",
           "url": "https://github.com/simstudioai/sim"
         },
         {
           "name": "f/prompts.chat",
           "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
           "language": "HTML",
-          "stars": "173k",
+          "stars": "173.1k",
           "change": "近30日入榜 15 天",
           "url": "https://github.com/f/prompts.chat"
         }
