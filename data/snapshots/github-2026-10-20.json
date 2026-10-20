@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-10-20T04:51:14.169Z",
+  "items": [
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "language": "Python",
+      "stars": "187.7k",
+      "change": "今日入榜",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT"
+    },
+    {
+      "name": "f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "language": "HTML",
+      "stars": "173.6k",
+      "change": "今日入榜",
+      "url": "https://github.com/f/prompts.chat"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": "101.8k",
+      "change": "今日入榜",
+      "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+      "name": "OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "language": "TypeScript",
+      "stars": "91.3k",
+      "change": "今日入榜",
+      "url": "https://github.com/OpenHands/OpenHands"
+    },
+    {
+      "name": "usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": "70.2k",
+      "change": "今日入榜",
+      "url": "https://github.com/usestrix/strix"
+    },
+    {
+      "name": "Kong/kong",
+      "description": "🦍 The API and AI Gateway",
+      "language": "Lua",
+      "stars": "44.3k",
+      "change": "今日入榜",
+      "url": "https://github.com/Kong/kong"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars": "30.4k",
+      "change": "今日入榜",
+      "url": "https://github.com/nautechsystems/nautilus_trader"
+    },
+    {
+      "name": "simstudioai/sim",
+      "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+      "language": "TypeScript",
+      "stars": "29.8k",
+      "change": "今日入榜",
+      "url": "https://github.com/simstudioai/sim"
+    },
+    {
+      "name": "The-Art-of-Hacking/h4cker",
+      "description": "This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vulnerability research, exploit development, reverse engineering, and more. 🔥 Also check: https://hackertraining.org",
+      "language": "Jupyter Notebook",
+      "stars": "29.8k",
+      "change": "今日入榜",
+      "url": "https://github.com/The-Art-of-Hacking/h4cker"
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
+      "language": "Python",
+      "stars": "29.1k",
+      "change": "今日入榜",
+      "url": "https://github.com/harvard-edge/cs249r_book"
+    }
+  ]
+}
