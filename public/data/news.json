@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T21:33:42.755Z",
+  "generatedAt": "2026-11-20T03:15:19.256Z",
   "sourceLabel": "官方公开 RSS / Atom",
   "items": [
     {
@@ -13,7 +13,59 @@
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
       "publishedAt": "2026-11-19T08:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
+    },
+    {
+      "id": "live-1606ae7",
+      "type": "官方更新",
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "source": "OpenAI",
+      "time": "最新收录",
+      "theme": "official",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "generatedAt": "2026-11-20T03:15:19.256Z"
+    },
+    {
+      "id": "live-2go08r",
+      "type": "官方更新",
+      "title": "See PR scans in action",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "source": "OpenAI",
+      "time": "最新收录",
+      "theme": "official",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "generatedAt": "2026-11-20T03:15:19.256Z"
+    },
+    {
+      "id": "live-1rbg4",
+      "type": "官方更新",
+      "title": "Explore the Codex Security Plugin",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "source": "OpenAI",
+      "time": "最新收录",
+      "theme": "official",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "generatedAt": "2026-11-20T03:15:19.256Z"
+    },
+    {
+      "id": "live-15x0z9q",
+      "type": "官方更新",
+      "title": "Get started with Daybreak Blue",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "source": "OpenAI",
+      "time": "最新收录",
+      "theme": "official",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-1jsbivk",
@@ -26,20 +78,7 @@
       "url": "https://openai.com/index/the-silent-consensus",
       "publishedAt": "2026-11-18T10:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
-    },
-    {
-      "id": "live-1y4qlx0",
-      "type": "官方更新",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "source": "OpenAI",
-      "time": "最新收录",
-      "theme": "official",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "publishedAt": "2026-11-18T08:00:00.000Z",
-      "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-1qrlnq",
@@ -52,7 +91,20 @@
       "url": "https://openai.com/index/research-acceleration-jagged-frontier",
       "publishedAt": "2026-11-18T08:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
+    },
+    {
+      "id": "live-1y4qlx0",
+      "type": "官方更新",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "source": "OpenAI",
+      "time": "最新收录",
+      "theme": "official",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "publishedAt": "2026-11-18T08:00:00.000Z",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-s079z7",
@@ -65,7 +117,7 @@
       "url": "https://openai.com/index/inside-the-codex-sandbox",
       "publishedAt": "2026-11-18T08:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-1gpt3ye",
@@ -78,20 +130,7 @@
       "url": "https://openai.com/index/managing-frontier-ai-risk",
       "publishedAt": "2026-11-18T06:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
-    },
-    {
-      "id": "live-18t5zqe",
-      "type": "官方更新",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "source": "OpenAI",
-      "time": "最新收录",
-      "theme": "official",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "publishedAt": "2026-11-18T00:00:00.000Z",
-      "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-14qgvnx",
@@ -104,7 +143,20 @@
       "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "publishedAt": "2026-11-18T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
+    },
+    {
+      "id": "live-18t5zqe",
+      "type": "官方更新",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "source": "OpenAI",
+      "time": "最新收录",
+      "theme": "official",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-b9o95m",
@@ -117,7 +169,7 @@
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "publishedAt": "2026-11-17T17:45:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-mmiis0",
@@ -130,7 +182,7 @@
       "url": "https://openai.com/index/introducing-chatgpt-for-sales",
       "publishedAt": "2026-11-17T08:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-kf9qcn",
@@ -143,7 +195,7 @@
       "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "publishedAt": "2026-11-17T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-16c690w",
@@ -156,7 +208,7 @@
       "url": "https://openai.com/index/introducing-openai-for-chile",
       "publishedAt": "2026-11-17T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-9ed4ur",
@@ -169,7 +221,7 @@
       "url": "https://openai.com/index/astra-law-6-2",
       "publishedAt": "2026-11-17T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-19tha7f",
@@ -182,7 +234,7 @@
       "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "publishedAt": "2026-11-16T17:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-1oot9zh",
@@ -195,7 +247,7 @@
       "url": "https://openai.com/index/strengthening-online-child-safety",
       "publishedAt": "2026-11-16T17:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-1do601r",
@@ -208,7 +260,7 @@
       "url": "https://openai.com/index/science-at-the-frontier",
       "publishedAt": "2026-11-16T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-1vgkrx3",
@@ -221,7 +273,7 @@
       "url": "https://openai.com/business/customer-stories/revolut",
       "publishedAt": "2026-11-16T09:30:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-mnkqys",
@@ -234,7 +286,7 @@
       "url": "https://openai.com/index/lvmh-media-division-partnership",
       "publishedAt": "2026-11-16T09:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-u7ncnt",
@@ -247,7 +299,7 @@
       "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
       "publishedAt": "2026-11-16T08:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-669qg6",
@@ -260,7 +312,7 @@
       "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "publishedAt": "2026-11-16T06:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-1nnaqx7",
@@ -273,7 +325,7 @@
       "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
       "publishedAt": "2026-11-16T06:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-qajzqn",
@@ -286,7 +338,7 @@
       "url": "https://openai.com/index/the-kings-trust-and-openai",
       "publishedAt": "2026-11-16T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-hwwd7j",
@@ -299,7 +351,7 @@
       "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
       "publishedAt": "2026-11-16T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-2fzv8g",
@@ -312,7 +364,7 @@
       "url": "https://openai.com/index/step-toward-defining-the-standard-model",
       "publishedAt": "2026-11-15T22:00:01.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-1af5hgc",
@@ -325,7 +377,7 @@
       "url": "https://openai.com/index/our-new-blog-for-science",
       "publishedAt": "2026-11-15T22:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-1mib2b3",
@@ -338,7 +390,7 @@
       "url": "https://openai.com/index/introducing-chatgpt-wallet",
       "publishedAt": "2026-11-13T15:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-15i2fo1",
@@ -351,7 +403,7 @@
       "url": "https://openai.com/business/customer-stories/shield",
       "publishedAt": "2026-11-13T08:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-1jwi9ut",
@@ -364,7 +416,7 @@
       "url": "https://openai.com/business/customer-stories/amplitude",
       "publishedAt": "2026-11-12T20:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-k236cy",
@@ -377,7 +429,7 @@
       "url": "https://openai.com/business/customer-stories/gondola",
       "publishedAt": "2026-11-12T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-2ft4vt",
@@ -390,7 +442,7 @@
       "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
       "publishedAt": "2026-11-12T09:30:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-1f7oiz8",
@@ -403,7 +455,7 @@
       "url": "https://openai.com/index/children-first-declaration",
       "publishedAt": "2026-11-12T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-1bzqxag",
@@ -416,7 +468,7 @@
       "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
       "publishedAt": "2026-11-12T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-1hq53m2",
@@ -429,7 +481,7 @@
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "publishedAt": "2026-11-12T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-dvoqik",
@@ -442,7 +494,7 @@
       "url": "https://openai.com/index/chatgpt-plus-for-veterans",
       "publishedAt": "2026-11-11T08:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-nt0fel",
@@ -455,7 +507,7 @@
       "url": "https://openai.com/index/jiostar-vijay-seshadri",
       "publishedAt": "2026-11-11T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-1q6locq",
@@ -468,7 +520,7 @@
       "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "publishedAt": "2026-11-10T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-viuanc",
@@ -481,7 +533,7 @@
       "url": "https://openai.com/index/introducing-businesses-chatgpt",
       "publishedAt": "2026-11-10T10:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-1pj9gqs",
@@ -494,7 +546,7 @@
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
       "publishedAt": "2026-11-10T09:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-1xw60js",
@@ -507,7 +559,7 @@
       "url": "https://openai.com/index/singapore-airlines-travel-work",
       "publishedAt": "2026-11-10T08:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-71zm0v",
@@ -520,7 +572,7 @@
       "url": "https://openai.com/index/ai-effect-on-freelance-work",
       "publishedAt": "2026-11-10T07:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-exwryi",
@@ -533,7 +585,7 @@
       "url": "https://openai.com/index/cogent-security",
       "publishedAt": "2026-11-10T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-1j780ja",
@@ -546,7 +598,7 @@
       "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
       "publishedAt": "2026-11-09T19:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-ucc7a2",
@@ -559,7 +611,7 @@
       "url": "https://openai.com/index/control-room",
       "publishedAt": "2026-11-09T13:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     },
     {
       "id": "live-1dtbewo",
@@ -572,59 +624,7 @@
       "url": "https://openai.com/index/coderabbit-codex-daybreak",
       "publishedAt": "2026-11-09T08:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
-    },
-    {
-      "id": "live-2ffah9",
-      "type": "官方更新",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "source": "OpenAI",
-      "time": "最新收录",
-      "theme": "official",
-      "url": "https://openai.com/index/kuken",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
-    },
-    {
-      "id": "live-1y46ww5",
-      "type": "官方更新",
-      "title": "How VistaPrint helps small businesses get the word out",
-      "summary": "Small business owners preparing for a launch or an event often know what they want to accomplish before they know what to print. VistaPrint uses ChatGPT Ads to show how products like signs and branded merchandise can help them get the word out.",
-      "source": "OpenAI",
-      "time": "最新收录",
-      "theme": "official",
-      "url": "https://openai.com/ads/customers/vistaprint",
-      "publishedAt": "2026-11-09T00:00:00.000Z",
-      "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
-    },
-    {
-      "id": "live-m2q7lz",
-      "type": "官方更新",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "source": "OpenAI",
-      "time": "最新收录",
-      "theme": "official",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "publishedAt": "2026-11-06T08:00:00.000Z",
-      "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
-    },
-    {
-      "id": "live-zytr8y",
-      "type": "官方更新",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "source": "OpenAI",
-      "time": "最新收录",
-      "theme": "official",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "publishedAt": "2026-11-06T00:00:00.000Z",
-      "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-19T21:33:42.755Z"
+      "generatedAt": "2026-11-20T03:15:19.256Z"
     }
   ]
 }
