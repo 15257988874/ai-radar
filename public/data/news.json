@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T20:19:14.520Z",
+  "generatedAt": "2026-11-21T01:34:46.626Z",
   "sourceLabel": "官方公开 RSS / Atom",
   "items": [
     {
@@ -13,7 +13,20 @@
       "url": "https://openai.com/index/combatting-adversarial-distillation",
       "publishedAt": "2026-11-20T10:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
+    },
+    {
+      "id": "live-og5kbd",
+      "type": "官方更新",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "source": "OpenAI",
+      "time": "最新收录",
+      "theme": "official",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-1jx00df",
@@ -26,7 +39,7 @@
       "url": "https://openai.com/index/introducing-medchembench",
       "publishedAt": "2026-11-20T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-17qcfx0",
@@ -39,7 +52,7 @@
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
       "publishedAt": "2026-11-19T08:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-1rbg4",
@@ -52,20 +65,7 @@
       "url": "https://openai.com/business/learn/codex-security-plugin-demo",
       "publishedAt": "2026-11-19T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
-    },
-    {
-      "id": "live-1606ae7",
-      "type": "官方更新",
-      "title": "Deploying Daybreak Red",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "source": "OpenAI",
-      "time": "最新收录",
-      "theme": "official",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "publishedAt": "2026-11-19T00:00:00.000Z",
-      "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-2go08r",
@@ -78,7 +78,7 @@
       "url": "https://openai.com/business/learn/pr-scans-demo",
       "publishedAt": "2026-11-19T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-15x0z9q",
@@ -91,7 +91,20 @@
       "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
       "publishedAt": "2026-11-19T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
+    },
+    {
+      "id": "live-1606ae7",
+      "type": "官方更新",
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "source": "OpenAI",
+      "time": "最新收录",
+      "theme": "official",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-1jsbivk",
@@ -104,7 +117,7 @@
       "url": "https://openai.com/index/the-silent-consensus",
       "publishedAt": "2026-11-18T10:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-1y4qlx0",
@@ -117,7 +130,7 @@
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "publishedAt": "2026-11-18T08:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-1qrlnq",
@@ -130,7 +143,7 @@
       "url": "https://openai.com/index/research-acceleration-jagged-frontier",
       "publishedAt": "2026-11-18T08:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-s079z7",
@@ -143,7 +156,7 @@
       "url": "https://openai.com/index/inside-the-codex-sandbox",
       "publishedAt": "2026-11-18T08:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-1gpt3ye",
@@ -156,7 +169,7 @@
       "url": "https://openai.com/index/managing-frontier-ai-risk",
       "publishedAt": "2026-11-18T06:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-14qgvnx",
@@ -169,7 +182,7 @@
       "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "publishedAt": "2026-11-18T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-18t5zqe",
@@ -182,7 +195,7 @@
       "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "publishedAt": "2026-11-18T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-b9o95m",
@@ -195,7 +208,7 @@
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "publishedAt": "2026-11-17T17:45:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-mmiis0",
@@ -208,7 +221,7 @@
       "url": "https://openai.com/index/introducing-chatgpt-for-sales",
       "publishedAt": "2026-11-17T08:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-kf9qcn",
@@ -221,20 +234,7 @@
       "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "publishedAt": "2026-11-17T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
-    },
-    {
-      "id": "live-16c690w",
-      "type": "官方更新",
-      "title": "Introducing OpenAI for Chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "source": "OpenAI",
-      "time": "最新收录",
-      "theme": "official",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "publishedAt": "2026-11-17T00:00:00.000Z",
-      "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-9ed4ur",
@@ -247,7 +247,20 @@
       "url": "https://openai.com/index/astra-law-6-2",
       "publishedAt": "2026-11-17T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
+    },
+    {
+      "id": "live-16c690w",
+      "type": "官方更新",
+      "title": "Introducing OpenAI for Chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "source": "OpenAI",
+      "time": "最新收录",
+      "theme": "official",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-19tha7f",
@@ -260,7 +273,7 @@
       "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "publishedAt": "2026-11-16T17:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-1oot9zh",
@@ -273,7 +286,7 @@
       "url": "https://openai.com/index/strengthening-online-child-safety",
       "publishedAt": "2026-11-16T17:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-1do601r",
@@ -286,7 +299,7 @@
       "url": "https://openai.com/index/science-at-the-frontier",
       "publishedAt": "2026-11-16T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-1vgkrx3",
@@ -299,7 +312,7 @@
       "url": "https://openai.com/business/customer-stories/revolut",
       "publishedAt": "2026-11-16T09:30:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-mnkqys",
@@ -312,7 +325,7 @@
       "url": "https://openai.com/index/lvmh-media-division-partnership",
       "publishedAt": "2026-11-16T09:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-u7ncnt",
@@ -325,7 +338,7 @@
       "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
       "publishedAt": "2026-11-16T08:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-669qg6",
@@ -338,7 +351,7 @@
       "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "publishedAt": "2026-11-16T06:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-1nnaqx7",
@@ -351,7 +364,7 @@
       "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
       "publishedAt": "2026-11-16T06:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-qajzqn",
@@ -364,7 +377,7 @@
       "url": "https://openai.com/index/the-kings-trust-and-openai",
       "publishedAt": "2026-11-16T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-hwwd7j",
@@ -377,7 +390,7 @@
       "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
       "publishedAt": "2026-11-16T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-2fzv8g",
@@ -390,7 +403,7 @@
       "url": "https://openai.com/index/step-toward-defining-the-standard-model",
       "publishedAt": "2026-11-15T22:00:01.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-1af5hgc",
@@ -403,7 +416,7 @@
       "url": "https://openai.com/index/our-new-blog-for-science",
       "publishedAt": "2026-11-15T22:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-1mib2b3",
@@ -416,7 +429,7 @@
       "url": "https://openai.com/index/introducing-chatgpt-wallet",
       "publishedAt": "2026-11-13T15:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-15i2fo1",
@@ -429,7 +442,7 @@
       "url": "https://openai.com/business/customer-stories/shield",
       "publishedAt": "2026-11-13T08:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-1jwi9ut",
@@ -442,7 +455,7 @@
       "url": "https://openai.com/business/customer-stories/amplitude",
       "publishedAt": "2026-11-12T20:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-k236cy",
@@ -455,7 +468,7 @@
       "url": "https://openai.com/business/customer-stories/gondola",
       "publishedAt": "2026-11-12T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-2ft4vt",
@@ -468,7 +481,7 @@
       "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
       "publishedAt": "2026-11-12T09:30:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-1f7oiz8",
@@ -481,7 +494,7 @@
       "url": "https://openai.com/index/children-first-declaration",
       "publishedAt": "2026-11-12T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-1bzqxag",
@@ -494,7 +507,7 @@
       "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
       "publishedAt": "2026-11-12T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-1hq53m2",
@@ -507,7 +520,7 @@
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "publishedAt": "2026-11-12T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-dvoqik",
@@ -520,7 +533,7 @@
       "url": "https://openai.com/index/chatgpt-plus-for-veterans",
       "publishedAt": "2026-11-11T08:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-nt0fel",
@@ -533,7 +546,7 @@
       "url": "https://openai.com/index/jiostar-vijay-seshadri",
       "publishedAt": "2026-11-11T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-1q6locq",
@@ -546,7 +559,7 @@
       "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "publishedAt": "2026-11-10T12:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-viuanc",
@@ -559,7 +572,7 @@
       "url": "https://openai.com/index/introducing-businesses-chatgpt",
       "publishedAt": "2026-11-10T10:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-1pj9gqs",
@@ -572,7 +585,7 @@
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
       "publishedAt": "2026-11-10T09:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-1xw60js",
@@ -585,7 +598,7 @@
       "url": "https://openai.com/index/singapore-airlines-travel-work",
       "publishedAt": "2026-11-10T08:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-71zm0v",
@@ -598,7 +611,7 @@
       "url": "https://openai.com/index/ai-effect-on-freelance-work",
       "publishedAt": "2026-11-10T07:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     },
     {
       "id": "live-exwryi",
@@ -611,20 +624,7 @@
       "url": "https://openai.com/index/cogent-security",
       "publishedAt": "2026-11-10T00:00:00.000Z",
       "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
-    },
-    {
-      "id": "live-1j780ja",
-      "type": "官方更新",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "source": "OpenAI",
-      "time": "最新收录",
-      "theme": "official",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "publishedAt": "2026-11-09T19:00:00.000Z",
-      "sourceUrl": "https://openai.com/news/rss.xml",
-      "generatedAt": "2026-11-20T20:19:14.520Z"
+      "generatedAt": "2026-11-21T01:34:46.626Z"
     }
   ]
 }
